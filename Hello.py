@@ -1,1 +1,1 @@
-print("Hello AWS Devops")
+print("Hello Devops")
