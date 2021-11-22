@@ -1,2 +1,2 @@
 print("Hello AWS Devops")
-print ("Revert")
+print ("Reset")
